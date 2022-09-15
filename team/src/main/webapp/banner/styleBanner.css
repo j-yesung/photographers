@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+@font-face {
+    font-family: 'Happiness-Sans-Title';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Happiness-Sans-Title.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+.logo { color: #000000; cursor: pointer; font-size: 50px; font-family: 'Poppins', sans-serif; }
+body { height: 1500px; margin : 30px 0px 0px 0px; }
+#box{ position: relative; height: auto; margin: auto; }
+#top { height: 100px; margin: 20px; position: relative; }
+#topLine   { background-color : black; height: 2px; position: relative; }
+
+.container { max-width: 1900px; max-height: 1400px; margin: 20px 0px 10px 20px; flex-wrap: wrap; }
+.image { position:relative; text-align:center; color: black; float: left; width:600px; height: 350px; margin: 0px 10px 0px 0px; }	 
+.image div { 
+	position: absolute; visibility: hidden; top:50%; left:50%; transform: translate(-50%, -50%); 
+	background-color: rgba(44, 42, 39, 0.983); color: white; flex-wrap: wrap;
+	font-family: 'Happiness-Sans-Title'; }
+.image:hover { opacity:0.7; }
+.image:hover div{ visibility: visible; } 

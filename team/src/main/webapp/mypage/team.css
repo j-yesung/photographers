@@ -1,0 +1,75 @@
+body{
+	margin : 0px;
+	font-size : 18px;
+	color : black;
+}
+#box{
+	 position: relative;
+	 height: auto;
+	 margin: auto;
+	 background-color : white;
+}
+
+#top{
+	background-color : white;
+	height: 101px;
+	margin: 20px;
+	position: relative;
+}
+#topLine{
+	background-color : black;
+	height: 2px;
+	position: relative;
+}
+#left{
+	background-color: gray;
+	color : white;
+	float: left;
+	height: 820px;
+	width: 14.9%;
+	position: relative;
+}
+#leftLine{
+	background-color : black;
+	float: left;
+	height: 820px;
+	width: 0.1%;
+	position: relative;
+}
+#main{
+	background-color: white;
+	color : black;
+	float: left;
+	height: 700px;
+	width: 85%;
+	position: relative;	
+}
+#mainSub{
+	background-color : white;
+	float: left;
+	height : 120px;
+	width: 85%;
+	position : relative;
+}
+#bottom{
+	background-color: white;
+	height: 70px;
+	position: relative;	
+	clear: both;
+	float: none; 
+}
+tr {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma; border: 1px solid #77878F; padding: 5px;
+}
+td {
+	FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: 맑은 고딕,verdana,tahoma; border: 1px solid #77878F; padding: 5px;
+}
+h1{
+	color: black;
+}
+a {
+	text-decoration:none; color: black; 
+}
+a:link {
+	text-decoration:none; color: black; 
+}
