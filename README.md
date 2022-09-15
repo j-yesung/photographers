@@ -16,6 +16,6 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   * 서버
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/>
-  
-#### 유스케이스 다이어그램
-<img src="https://theorydb.github.io/assets/img/ucd.png" width="300" height="200">
+
+### 유스케이스 다이어그램
+<img src="https://user-images.githubusercontent.com/113418610/190331823-31ca1488-7e76-4195-8583-e307b522ac28.png" width="1000" height="600">
